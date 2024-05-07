@@ -1,6 +1,6 @@
-### 👋 Hi there 
+##👋 Hi there 
 
-## I'm Sheila, 
+### I'm Sheila, 
 
 🚀 Fullstack developer  
 🤖 Currently learning about big data and AI 
