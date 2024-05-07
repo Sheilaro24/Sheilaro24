@@ -1,14 +1,12 @@
-### Hi there 😄
+### 👋 Hi there 
 
-I'm Sheila, fullstack developer ✨ living in Spain! 
+## I'm Sheila, 
 
-<div id="badges">
-   <a href="https://www.linkedin.com/in/sheila-rodriguez-813158114/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-</div>
+🚀 Fullstack developer  
+🤖 Currently learning about big data and AI 
 
-### Technologies
+
+### 💻 Technologies 
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white)
@@ -20,6 +18,17 @@ I'm Sheila, fullstack developer ✨ living in Spain!
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+👀 Take a look 
+
+<div id="badges">
+   <a href="https://www.linkedin.com/in/sheila-rodriguez-813158114/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</div>
+
+## Thanks for your time 🌸💖
 
 <!--
 **Sheilaro24/Sheilaro24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
