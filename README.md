@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 😄
 
+I'm Sheila, fullstack developer ✨ living in Spain! 
 <!--
 **Sheilaro24/Sheilaro24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
