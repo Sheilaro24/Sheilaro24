@@ -3,7 +3,7 @@
 
 ### I'm Sheila, 
 
-🚀 Fullstack developer  
+🚀 developer || big data
 🤖 Currently learning about big data and AI 
 
 
