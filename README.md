@@ -3,7 +3,7 @@
 
 ### I'm Sheila, 
 
-🚀 developer || big data
+Web Developer ✨|| Data Analyst 🤖
 
 🤖 Currently learning about big data and AI 
 
